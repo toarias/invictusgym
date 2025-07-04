@@ -1,0 +1,60 @@
+body.bg-custom {
+  background-color: #79ff03 !important;
+}
+/* Efecto hover para los links del navbar */
+.navbar-nav .nav-link:hover {
+  color: #79ff03 !important;
+}
+/* Misma altura y ancho para imágenes de servicios */
+.servicio-img {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  margin: 0;
+  padding: 0;
+  display: block;
+}
+.text-contacto {
+  color: #fff !important;
+}
+    body.bg-custom {
+      background-color: #79ff03 !important;
+    }
+    /* Efecto hover para los links del navbar */
+    .navbar-nav .nav-link:hover {
+      color: #79ff03 !important;
+    }
+    /* Misma altura y ancho para imágenes de servicios */
+    .servicio-img {
+      width: 100%;
+      height: 250px;
+      object-fit: cover;
+      margin: 0;
+      padding: 0;
+      display: block;
+    }
+    .text-contacto {
+      color: #fff !important;
+    }
+.bg-contacto {
+  background-color: #000000 !important;
+}
+.sobre-nosotros-text {
+  font-size: 1.25rem;
+}
+.footer-small {
+  padding: 14px 0;
+  font-size: 1.1rem;
+  background: #222;
+  color: #fff;
+  text-align: center;
+}
+.footer-small p {
+  margin: 0 0 8px 0;
+  font-size: 1.1em;
+}
+.footer-small .redes-sociales img {
+  height: 32px;
+  margin: 0 8px;
+  vertical-align: middle;
+}
